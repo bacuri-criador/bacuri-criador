@@ -17,8 +17,8 @@
 ## Contatos:
 
 <div>
-<a href="https://instagram.com/joaoo_vitor_silva/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/joaoo_vitor_silva" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/in/joão-vitor-oliveira-silva-3203871a2/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.instagram.com/joaoo_vitor_silva/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/joaoo_vitor_silva" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-oliveira-silva-3203871a2/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 <!--

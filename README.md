@@ -1,9 +1,7 @@
 # Olá! Bem-vindo ao meu perfil GitHub. 👋
 ## Eu me chamo João Vitor! 
 
-[![image](https://github.com/user-attachments/assets/1f49045b-ef25-4da5-980d-6a2097ad76a0)](https://tenor.com/cpkDCOjSAyu.gif)
-
-
+![csharp-cat-programmer](https://github.com/user-attachments/assets/472771cb-4ba4-424c-a93d-6f7c8d0e5134)
 
 - 🌱 Atualmente estou aprendendo JavaScript e Python
 

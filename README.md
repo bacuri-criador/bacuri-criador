@@ -1,47 +1,120 @@
-# Olá! Bem-vindo ao meu perfil GitHub. 👋
-## Eu me chamo João Vitor! 
+# 👋 Olá, eu sou João Vitor Oliveira Silva
 
-![csharp-cat-programmer](https://github.com/user-attachments/assets/472771cb-4ba4-424c-a93d-6f7c8d0e5134)
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na Unitins
 
-- 🌱 Atualmente estou aprendendo C#, Java e JavaScript.
+💻 Desenvolvedor Full Stack em formação
 
-## Ferramentas e Tecnologias
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
+🎨 Designer Gráfico com experiência profissional
 
-<div>
+📍 Palmas - TO, Brasil
+
+---
+
+## 🚀 Sobre mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento Full Stack, estudando Java, C#, .NET, JavaScript, TypeScript e React.
+
+Além da área de tecnologia, atuo profissionalmente como Designer Gráfico, o que me proporciona uma visão diferenciada sobre experiência do usuário, interfaces e comunicação visual.
+
+Tenho experiência em:
+
+- Desenvolvimento Web
+- Automação de Processos
+- Suporte Técnico
+- Levantamento de Requisitos
+- UX/UI e Prototipação
+- Design Gráfico e Branding
+
+Atualmente busco oportunidades para aplicar meus conhecimentos em projetos reais e evoluir como desenvolvedor.
+
+---
+
+## 🛠️ Tecnologias
+
+### Linguagens
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+</p>
+
+### Front-End
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+</p>
+
+### Ferramentas
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="45" height="45"/>
+</p>
+
+### Design e UX/UI
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45"/>
+</p>
+
+---
+
+## 📌 Projeto em Destaque
+
+### 🚍 MobilizaPalmas
+
+Projeto acadêmico de mobilidade urbana inteligente para a cidade de Palmas-TO.
+
+**Principais funcionalidades:**
+
+- Rastreamento em tempo real
+- Dashboard administrativo
+- Otimização de frota com IA
+- Inclusão digital para usuários
+- Interface moderna focada na experiência do usuário
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bacuri-criador&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacuri-criador&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 📫 Contato
+
+<p>
+<a href="mailto:joaovitoroliveirasilva2@gmail.com">
+<img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/joão-vitor-oliveira-silva">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 <a href="https://github.com/bacuri-criador">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacuri-criador&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=bacuri-criador&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-## Contatos:
+<a href="https://www.behance.net/joaovitorsilva5">
+<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white">
+</a>
+</p>
 
-<div>
-<a href="https://www.instagram.com/joaoo_vitor_silva/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/joaoo_vitor_silva" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-oliveira-silva-3203871a2/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+---
 
-<!--
-**bacuri-criador/bacuri-criador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-- 🔭 Atualmente estou trabalhando em ...
-- 🌱 Atualmente estou aprendendo ...
-- 👯 Estou procurando colaborar em ...
-- 🤔 Estou procurando ajuda com ...
-- 💬 Pergunte-me sobre ...
-- 📫 Como entrar em contato comigo: ...
-- 😄 Pronomes: ...
-- ⚡ Curiosidade: ...
--->
+⭐ Sempre aprendendo, construindo projetos e evoluindo como desenvolvedor e designer.

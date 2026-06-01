@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou João Vitor Oliveira Silva
+# 👋 Olá, eu sou João Vitor Silva
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Unitins
 

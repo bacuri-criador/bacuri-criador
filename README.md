@@ -83,18 +83,6 @@ Projeto acadêmico de mobilidade urbana inteligente para a cidade de Palmas-TO.
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bacuri-criador&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacuri-criador&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
 ## 📫 Contato
 
 <p>
